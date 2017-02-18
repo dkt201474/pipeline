@@ -1,5 +1,5 @@
 box: golang
-
+# defining the box of our app
 dev:
     steps:
         - internal/watch:
